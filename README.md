@@ -20,5 +20,5 @@ The 'code' files have the jupyter notebooks, and the 'supporting' files have the
 
 The linear regression is again split into two files, one to preprocess the data 'preprocessing-for-linear-regression.ipynb' and another to actually perform the linear regression 'linear-regression.ipynb.
 
-Current Output:
-![Alt text](edgar-stock-analysis/output images/output.png?raw=true "Title")
+Output:
+See the output images folder for the current ouput of the analyses.
